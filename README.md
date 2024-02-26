@@ -2,6 +2,6 @@
 
 
 
-It automatically generataes graphs based on question using lida framework.
+It automatically generates graph based on question using lida framework.
 
 Happy lida exploring!
