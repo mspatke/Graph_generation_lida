@@ -6,4 +6,5 @@ It automatically generates graph based on question using lida framework.
 
 Happy lida exploring!
 
-![alt text](image.png)
+![Alt Text](Capture.JPG)
+![Alt Text](Capture1.JPG)
