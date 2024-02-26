@@ -3,3 +3,5 @@ lida[transformers]
 torch
 streamlit
 openai
+seaborn
+matplotlib
